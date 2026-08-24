@@ -1,8 +1,8 @@
 replicaCount: 2
 
 image:
-  repository: k8s-gitops-demo
-  tag: local
+  repository: ghcr.io/harisenthil1/k8s-gitops-platform
+  tag: "f43052c15db419c98ddfbd7014d5252a06a335ec"
   pullPolicy: IfNotPresent
 
 service:
