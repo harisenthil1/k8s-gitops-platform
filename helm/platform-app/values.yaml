@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: ghcr.io/harisenthil1/k8s-gitops-platform
-  tag: "f43052c15db419c98ddfbd7014d5252a06a335ec"
+  tag: "8199009b72f0095413bb3d60b34d310d87c6b062"
   pullPolicy: IfNotPresent
 
 service:
